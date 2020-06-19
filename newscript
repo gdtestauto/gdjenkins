@@ -1,4 +1,4 @@
-job('generatedJob'0 {
+job('generatedJob') {
 steps {
 shell('echo gayathri script from git')
 }
