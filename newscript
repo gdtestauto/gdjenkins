@@ -1,0 +1,5 @@
+job('generatedJob'0 {
+steps {
+shell('echo gayathri script from git')
+}
+}
